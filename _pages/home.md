@@ -7,10 +7,10 @@ permalink: /
 ---
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo.jpg" width="60%">
 </figure>
 
-The Hawaii Natural Language Processing (NLP) Lab conducts transformative research in various areas of NLP. The NLP Group leverages expertise in natural language understanding, generation, summarization, information extraction, and large language model (LLM) applications. (see [Research](research) ) We are housed in the [Department of Information and Computer Science](https://www.ics.hawaii.edu/) at the [University of Hawaii Manoa](https://manoa.hawaii.edu/).
+The Hawaii Natural Language Processing (NLP) Lab conducts transformative research in various areas of NLP and AI. We leverage expertise in natural language understanding, generation, summarization, information extraction, and large language model (LLM) applications. (see [Research](research) ) We are housed in the [Department of Information and Computer Science](https://www.ics.hawaii.edu/) at the [University of Hawaii Manoa](https://manoa.hawaii.edu/).
 
 
 **We are  looking for passionate new PhD students, Master students, and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
