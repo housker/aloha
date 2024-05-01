@@ -10,9 +10,6 @@ permalink: /team/
 
  **We are  looking for PhD students, Master students, and undergraudate students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [Principal Investigator](#PI), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
-
 ## PI
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -78,7 +75,7 @@ Jump to [Principal Investigator](#PI), [master and bachelor students](#master-an
 
 
 
-## Master and Bachelor Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -165,7 +162,7 @@ Jump to [Principal Investigator](#PI), [master and bachelor students](#master-an
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+<!-- ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -189,4 +186,4 @@ Jump to [Principal Investigator](#PI), [master and bachelor students](#master-an
 {% endfor %}
 </div>
 
-</div>
+</div> -->
