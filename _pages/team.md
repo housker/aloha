@@ -8,7 +8,7 @@ permalink: /people/
 
 # Group Members
 
- **We are  looking for PhD students, Master students, and undergraudate students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for PhD students, Master students, and undergraudate students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/opening) **!**
 
 ## PI
 {% assign number_printed = 0 %}

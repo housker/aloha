@@ -21,5 +21,5 @@ If you are a Master student at the University of Hawaii looking for a Master pro
 
 
 ### For University of Hawaii undergraduate students:
- Course credit is available in the form of ICS 499 or for your honors thesis (HONS 496). Please send me an email with your resume/CV and transcripts
+ Course credit is available in the form of ICS 499 or for your honors thesis (HONS 496). Please send me an email with your resume/CV and transcripts.
 
