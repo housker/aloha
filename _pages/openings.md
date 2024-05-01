@@ -8,19 +8,18 @@ permalink: /openings
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are  looking for passionate new PhD students, Master students, and undergraduate students to join the team**
 
-We are  looking for new group members with passion, talent, and grit!
+We are  looking for new group members with passion, talent, and grit! You will have the chance to work on the grand challenges of artificial intelligence and natural language proecssing. 
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+### Applications for PhD positions
+If you are interested in working with us as a PhD student, please send me an [email](mailto:haopengz@hawaii.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. **Important**: please insert _"Application PhD"_ in the subject line. 
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student, please send me an [email](mailto:haopengz@hawaii.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### For University of Hawaii masters students:
+If you are a Master student at the University of Hawaii looking for a Master project, contact me per email or stop by my office. Course credit is available in the form of ICS 499, ICS 699, or ICS 700. Note that masters students completing Plan A must complete 6 units of ICS 700 and masters students completing Plan B must complete 6 units of ICS 699. 
 
 
-### Master projects for Leiden University students
-If you are a Master student at the University of Hawaii looking for a Master project, contact me (or any group member) per email or stop by my office.
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+### For University of Hawaii undergraduate students:
+ Course credit is available in the form of ICS 499 or for your honors thesis (HONS 496). Please send me an email with your resume/CV and transcripts
 
