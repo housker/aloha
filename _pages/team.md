@@ -1,9 +1,9 @@
 ---
-title: "Hawaii NLP Lab - Team"
+title: "Hawaii NLP Lab - People"
 layout: gridlay
-excerpt: "Hawaii NLP Lab: Team members"
+excerpt: "Hawaii NLP Lab: People"
 sitemap: false
-permalink: /team/
+permalink: /people/
 ---
 
 # Group Members
