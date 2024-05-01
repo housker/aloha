@@ -26,18 +26,6 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -50,11 +38,11 @@ permalink: /
 </div>
 
 
-The Hawaii Natural Language Processing (NLP) Lab conducts transformative research in various areas of NLP. The NLP Group leverages expertise in natural language understanding, generation, summarization, information extraction, large language model (LLM) applications. (see [Research](research)) We are housed in the [Department of Information and Computer Science] (https://www.ics.hawaii.edu/) at the [University of Hawaii Manoa](https://manoa.hawaii.edu/).
+The Hawaii Natural Language Processing (NLP) Lab conducts transformative research in various areas of NLP. The NLP Group leverages expertise in natural language understanding, generation, summarization, information extraction, and large language model (LLM) applications. (see [Research](research)) We are housed in the [Department of Information and Computer Science] (https://www.ics.hawaii.edu/) at the [University of Hawaii Manoa](https://manoa.hawaii.edu/).
 
 
 
- **We are  looking for passionate new PhD students, Master students, and undergraudate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students, Master students, and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
