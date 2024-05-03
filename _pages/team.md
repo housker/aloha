@@ -1,7 +1,7 @@
 ---
-title: "NLP Group @ USF"
+title: "ALOHA LAB - People"
 layout: gridlay
-excerpt: "NLP Group @ USF: Team members"
+excerpt: "ALOHA LAB -- People"
 sitemap: false
 permalink: /team/
 ---

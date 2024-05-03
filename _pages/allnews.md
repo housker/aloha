@@ -3,7 +3,7 @@ title: "ALOHA Lab - News"
 layout: textlay
 excerpt: "ALOHA Lab - News"
 sitemap: false
-permalink: /allnews.html
+permalink: /news
 ---
 
 # News

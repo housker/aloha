@@ -1,7 +1,7 @@
 ---
-title: "NLP Group @ USF - Publications"
+title: "ALOHA Lab - Publications"
 layout: gridlay
-excerpt: "NLP Group @ USF -- Publications."
+excerpt: "ALOHA Lab -- Publications"
 sitemap: false
 permalink: /publications/
 ---
