@@ -1,5 +1,5 @@
 ---
-title: "NLP Group @ USF - Vacancies"
+title: "ALOHA Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -13,19 +13,8 @@ We are looking for new group members with passion, talent, and grit!
 You will have the chance to work in the growing field of natural language processing: its use for the study of language, its interface with computer reasoning, and its application in analyzing human behaviors both within and beyond the field of computer science. 
 
 ### Applications for PhD positions
-If you are interested in working with Dr. Gene Kim as a PhD student, please send him an [email](mailto:genekim@usf.edu) and submit an application to the Department of Computer Science and Engineering at USF. In your email, state briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. **Important**: please insert _"Application PhD"_ in the subject line so that I don't miss it.
+If you are interested in working with us as a PhD student, please send me an [email](mailto:haopengz@hawaii.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. **Important**: please insert _"Application PhD"_ in the subject line. 
 
-If you are interested in working with Dr. Ankur Mali, please send him an [email](mailto:ankurarjunmali@usf.edu) and submit official application to the Department. In your email please briefly mention your interests and why you wish to join our lab.
-
-If you are interested in working with Dr. Licato, please see [the page about prospective students](https://sites.google.com/view/amhr/people/prospective-students) on his lab website.
-
-Currently, Dr. Neal does not have funding for additional PhD students and can only welcome you if you have a fellowship.
-
-### Master projects for USF CSE students
-If you are a Master student at USF looking for a Master project and would like to work with
-- Dr. Gene Kim: contact him per email or stop by his office,
-- Dr. Seungbae Kim: contact him per email or stop by his office,
-- Dr. Licato: see [the AMHR Lab page on prospective students](https://sites.google.com/view/amhr/people/prospective-students). 
-- Dr. Neal: contact her per email or stop by her office.
-- Dr. Ankur Mali: contact him per email or stop by his office.
+### For University of Hawaii masters students:
+If you are a Master student at the University of Hawaii looking for a Master project, contact me per email or stop by my office. Course credit is available in the form of ICS 499, ICS 699, or ICS 700. Note that masters students completing Plan A must complete 6 units of ICS 700 and masters students completing Plan B must complete 6 units of ICS 699. 
 
