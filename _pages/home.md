@@ -8,7 +8,7 @@ permalink: /
 
 The ALOHA (Advanced Language Processing and Human Analytics) Lab conducts transformative research in various areas of NLP and AI. We leverage expertise in natural language understanding, generation, summarization, information extraction, and large language model (LLM) applications. We are housed in the [Department of Information and Computer Science](https://www.ics.hawaii.edu/) at the [University of Hawaii Manoa](https://manoa.hawaii.edu/).
 
- ### We are  looking for self-motivated new PhD students, Master students and undergraduate students to join the team. 
+### We are  looking for self-motivated new PhD students, Master students and undergraduate students to join the team. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
