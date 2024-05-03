@@ -1,19 +1,15 @@
 ---
-title: "Allan Lab - Team"
+title: "NLP Group @ USF"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "NLP Group @ USF: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Faculty
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -34,8 +30,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
@@ -78,7 +74,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+<!-- ## Students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -89,8 +85,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -115,6 +112,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education4 }} </li>
   {% endif %}
 
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
   </ul>
 </div>
 
@@ -131,6 +136,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+<!--
 
 ## Alumni
 
@@ -192,5 +198,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+## Administrative and System Support
+<a href="https://www.usf.edu/engineering/cse/people/staff.aspx">USF's Department of Computer Science and Engineering Staff</a>
+-->
