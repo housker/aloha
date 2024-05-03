@@ -1,12 +1,12 @@
 ---
-title: "NLP Group @ USF - Home"
+title: "ALOHA Lab - Home"
 layout: homelay
-excerpt: "NLP Group @ USF"
+excerpt: "ALOHA Lab at the University of Hawaii, Manoa"
 sitemap: false
 permalink: /
 ---
 
-The Natural Language Processing (NLP) Group conducts transformative research in various areas of NLP. The NLP Group leverages expertise in natural language understanding, knowledge representation, inference, computation semantics, information extraction, human and formal reasoning, informal reasoning / argumentation, computational cognitive architectures, analogical reasoning, stylometry, authorship attribution, and implicit and explicit opinion mining. We are housed in the [Department of Computer Science and Engineering](http://cse.usf.edu/) at the [University of South Florida](https://www.usf.edu/). 
+The ALOHA (Advanced Language Processing and Human Analytics) Lab conducts transformative research in various areas of NLP and AI. We leverage expertise in natural language understanding, generation, summarization, information extraction, and large language model (LLM) applications. We are housed in the [Department of Information and Computer Science](https://www.ics.hawaii.edu/) at the [University of Hawaii Manoa](https://manoa.hawaii.edu/).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -51,7 +51,7 @@ The Natural Language Processing (NLP) Group conducts transformative research in 
   </a>
 </div>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 <!--<figure class="fourth">
