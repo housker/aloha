@@ -1,11 +1,8 @@
-# - name: Parush Gera
-#   photo: parush.jpg
-#   info: PhD Student (Advised by Dr. Neal)
-#   email: parush@usf.edu
-#   number_educ: 3
-#   education1: M.S., University of South Florida
-#   education2: M.B.A., Punjabi University
-#   education3: B.E., Panjab University
+- name: July Zhang
+  photo: july.jpg
+  info: honored member
+  number_educ: 1
+  education1: Cute Cat University
 
 # - name: Meghna Chaudhary
 #   photo: meghna.jpg
