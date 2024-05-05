@@ -72,7 +72,7 @@ permalink: /team/
 {% endif %}
 
 
-
+# Members
 
 <!-- ## Students -->
 {% assign number_printed = 0 %}
