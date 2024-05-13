@@ -65,6 +65,8 @@ The ALOHA (Advanced Language Processing and Human Analytics) Lab conducts transf
     - Graph4NLP
 - NLP4Science
 
+<a href="https://info.flagcounter.com/WOgo"><img src="https://s01.flagcounter.com/count2/WOgo/bg_FDFCFF/txt_000000/border_0655CC/columns_8/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 <!--<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
