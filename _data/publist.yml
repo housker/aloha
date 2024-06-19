@@ -1,8 +1,37 @@
 - title: "A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models"
   # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: Haopeng Zhang, Philip S. Yu, Jiawei Zhang
-  link: https://arxiv.org/abs/2406.11289
+  link:
+    url: https://arxiv.org/abs/2406.11289
+    display: arXiv
   highlight: 0
+
+
+- title: "Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Zizhong Li, Haopeng Zhang, Jiawei Zhang
+  link:
+    url: https://arxiv.org/abs/2406.12169
+    display: arXiv
+  highlight: 0
+
+- title: "Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Zizhong Li, Haopeng Zhang, Jiawei Zhang
+  link:
+    url: https://arxiv.org/abs/2309.11063
+    display: NAACL 2024
+  highlight: 0
+
+- title: "XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updatess"
+  # description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: Haopeng Zhang, Hayate Iso, Sairam Gurajada, Nikita Bhutani
+  link:
+    url: https://arxiv.org/abs/2406.11289
+    display: LREC-COLING 2024
+  highlight: 0
+
+
 
 # - title: "Surveying Stylometry Techniques and Applications"
 #   image: stylometry_survey.png
