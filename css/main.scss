@@ -21,8 +21,19 @@ main {
 }
 
 #footer {
-	margin-bottom: 0;
+	padding: 2rem 5rem 2rem 5rem;
 }
+
+.footer__left {
+    text-align: right;
+}
+
+@media (max-width: 768px) {
+    .footer__left {
+        text-align: left;
+    }
+}
+
 
 figcaption {
     text-align: right;
