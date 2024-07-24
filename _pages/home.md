@@ -16,7 +16,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+        <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
 <!--         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li> -->
@@ -53,9 +53,11 @@ permalink: /
   </a>
 </div>
 
-## Research Topics:
 
-- Natural Language Processing
+<div id="flex__container">
+<div class="p-2">
+## Research Topics:
+  - Natural Language Processing
     - Text Summarization & Generation
     - Misinformation
     - Information Retrieval
@@ -67,8 +69,12 @@ permalink: /
     - Medical 
 - Graph Mining
     - Graph4NLP
-    
+</div>
+<div class="p-2">
 <a href="https://info.flagcounter.com/WOgo"><img src="https://s01.flagcounter.com/count2/WOgo/bg_FDFCFF/txt_000000/border_0655CC/columns_8/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>
+</div>
+
 
 <!--<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">

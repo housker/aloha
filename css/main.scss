@@ -134,3 +134,17 @@ firstp {
 .carousel-control.left, .carousel-control.right {
 	background-image: none !important;
 }
+
+/* Flag counter */
+
+#flagcounter>img {
+	border-radius: 0;
+}
+
+#flex__container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	font-size: 18px;
+}
